@@ -82,7 +82,7 @@ const Index = () => (
             link=""
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            This site. My personal playground for hosting all my miscellaneous projects over since 2000 when I thought registering my own domain would make me rich!
+            This site. My personal playground for hosting all my miscellaneous projects ever since 2000 when I thought registering my own domain would make me rich!
           </ProjectCard>
           <ProjectCard
             title="Github"
@@ -109,8 +109,8 @@ const Index = () => (
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          I knew I wanted to write software since I discovered BASIC on my family PC when I was s young lad. When I started high school
-          in the early 90's it turned out there was other people whoe liked making computers do things too! Soon after that discovery
+          I knew I wanted to write software ever since I discovered BASIC on my family PC when I was a young lad. When I started high school
+          in the early 90's it turned out there was other people who liked making computers do things too! Soon after that discovery
           the Internet became a thing and us nerds got popular pretty quick. Ever since then I've been riding the ups and downs of
           Software Engineering and there's no end in sight!
         </AboutDesc>
