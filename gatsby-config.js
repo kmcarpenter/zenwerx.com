@@ -44,6 +44,14 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: "zenwerx",
+        protocol: "https",
+        hostname: "zenwerx.com",
+      },
+    },
     /* Must be placed at the end */
     'gatsby-plugin-offline',
     'gatsby-plugin-netlify',
